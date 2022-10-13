@@ -1,1 +1,3 @@
-data cleaning and implementig Regression model and PCA on this dataset
+- data cleaning 
+- implementig Linear Regression model from scratch (with one variable and also multivariate)
+- implementing PCA 
